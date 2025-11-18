@@ -6,6 +6,7 @@ I document my daily activities in regards to cybersecurity, the things i learnt,
 ### Networking Fundamentals
   - Learnt about wired network connectivity in Local Area Networks (LANs). I learnt how LANs work using hubs, bridges, and switches in business environments.
   - Learnt about wireless network connectivity in LANs, the ad hoc or infrastructure classes and using Wireless Access Points (WAPs) to connect to infrastructure mode networks.
+  - Learnt what Virtual LANs are and that the allow us to further segment or break down the network virtually.
 
 - [ ] Lab/Practice Session
 
