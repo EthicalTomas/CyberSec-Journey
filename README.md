@@ -9,5 +9,5 @@ I document my daily activities in regards to cybersecurity, the things i learnt,
   - Learnt what Virtual LANs are and that the allow us to further segment or break down the network virtually.
 
 - [x] Lab/Practice Session
-  - I started SQL injection learning path in portswigger web-security academy
+  - I completed retrieving hidden data lab in the SQL injection learning path.
 - [ ] Videos watching
