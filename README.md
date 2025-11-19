@@ -11,3 +11,12 @@ I document my daily activities in regards to cybersecurity, the things i learnt,
 - [x] Lab/Practice Session
   - I completed retrieving hidden data lab in the SQL injection learning path.
 - [ ] Videos watching
+
+## Day 02
+- [x] Book Reading
+### Bash Guide
+  - I learnt that a shell is basically a command interpreter and learnt about some different types of shell 
+  - Learnt some new basic commands and arguments in bash like apropos, whatis.
+
+ - [ ] Lab/Practice Session
+ - [ ] Video Watching 
