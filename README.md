@@ -16,7 +16,7 @@ I document my daily activities in regards to cybersecurity, the things i learnt,
 - [x] Book Reading
 ### Bash Guide
   - I learnt that a shell is basically a command interpreter and learnt about some different types of shell 
-  - Learnt some new basic commands and arguments in bash like apropos, whatis.
+  - Learnt some new basic commands in bash like apropos, whatis and what arguments are.
 
  - [ ] Lab/Practice Session
  - [ ] Video Watching 
