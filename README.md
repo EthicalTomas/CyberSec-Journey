@@ -21,3 +21,8 @@ I document my daily activities in regards to cybersecurity, the things i learnt,
 
  - [ ] Lab/Practice Session
  - [ ] Video Watching 
+
+## Day 03
+- [x] Coding
+### Rust
+  - I started to learn rust programming language
