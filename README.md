@@ -28,5 +28,5 @@ I document my daily activities in regards to cybersecurity, the things i learnt,
 - [x] Lab/Practice Session 
 ### Rust
   - I started to learn rust programming language
-
+    <br>
 - [ ] Video Watching
